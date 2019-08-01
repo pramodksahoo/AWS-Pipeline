@@ -56,7 +56,7 @@ chmod <file_name> 400
 6. Clone the git repository that contains the CloudFormation templates to create the infrastructure we’ll use to build our pipeline. 
       1. Open a command prompt and clone the Github repository that has the template.
       ```
-      git clone https://github.com/jicowan/hello-world
+      git clone https://github.com/pramodksahoo/AWS-Pipeline.git
       ```
       
       2. Change the working directory to the directory that was created when you cloned the repository. At the command prompt, type or paste the following. Where `<key_name>` is the name of an SSH key in the region where you're creating the ECS cluster:
